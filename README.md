@@ -9,7 +9,8 @@
 4. [Technologies](#technologies)  
 5. [Utilisation](#utilisation)  
 6. [Développement](#développement)  
-7. [Licence](#licence)  
+7. [Licence](#licence)
+8. [Créateurs](#Créateurs) 
 
 ---
 
@@ -60,4 +61,10 @@ Il utilise une base SQLite pour stocker l’historique des interactions et un mo
 ---
 
 ## Licence
-Ce projet est sous **licence MIT**.  
+Ce projet est sous **licence MIT**. 
+
+## Créateurs
+
+- [Mathieu Laronce](https://github.com/MathieuLaronce)
+- [Hugo Babin](https://github.com/hugobabin)
+
